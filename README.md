@@ -1,11 +1,9 @@
 
 # Dhamodharan Portfolio
-
-## Run
-
-npm install
-npm run dev
-
-## Build
-
-npm run build
+README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Dhamodharan389/DHAMODHARAN-Portfolio.git
+git push -u origin main
