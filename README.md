@@ -1,2 +1,11 @@
-# DHAMODHARAN-Portfolio
-My own portfolio 
+
+# Dhamodharan Portfolio
+
+## Run
+
+npm install
+npm run dev
+
+## Build
+
+npm run build
